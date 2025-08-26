@@ -1,0 +1,12 @@
+{
+    "name": "thingspeak-extension",
+    "version": "1.0.0",
+    "description": "An extension to read data from a Thingspeak channel",
+    "dependencies": {
+        "core": "*",
+        "iot-bit": "*"
+    },
+    "files": [
+        "thingspeak-extension.ts"
+    ]
+}
